@@ -1,0 +1,3 @@
+# Game a Week
+
+This is my attempt to motivate myself to work more consistently by prototyping a new game each week while blogging about the experience. I want to learn how to keep scope down, how to make myself work consistent hours daily, and how to blog about what I'm doing. I also want to throw together a little portfolio soon and start building an organized base of code and scenes available for reuse.
